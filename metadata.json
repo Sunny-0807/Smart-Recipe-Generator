@@ -1,0 +1,5 @@
+{
+  "name": "Smart Recipe Generator",
+  "description": "An application that suggests recipes based on photos of available ingredients, with options for dietary preferences and other filters.",
+  "requestFramePermissions": []
+}
