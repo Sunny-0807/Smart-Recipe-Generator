@@ -1,5 +1,5 @@
 # Smart Recipe Generator 🧑‍🍳
-Discover and create delicious meals from the ingredients you already have! This application uses the power of Google's Gemini models to identify ingredients from images and generate unique, personalized recipes instantly.
+Discover and create delicious meals from the ingredients you already have! This application uses the power of Google's Gemini models to identify ingredients from images and generate unique, personalized recipes instantly.([link](https://v0-smartrecipegenerator.vercel.app/))
 
 ## ✨ Features
 - Intelligent Ingredient Identification: Upload a photo of your ingredients (fridge contents, pantry items), and the application uses a multimodal Gemini model to identify the food items.
